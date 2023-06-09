@@ -1,3 +1,5 @@
+# Code to find encoding of the .dat file
+
 import chardet
 
 # Open the file in binary mode and read a portion of its contents
